@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#008577</color>
+    <color name="colorPrimaryDark">#00574B</color>
+    <color name="colorAccent">#D81B60</color>
+
+    <color name="colorFlatButton">#2196F3</color>
+
+    <color name="colorRaisedButton">#4CAF50</color>
+    <color name="colorRaisedButtonText">#FFFFFF</color>
+
+    <color name="colorFAB">#E040FB</color>
+
+
+</resources>
